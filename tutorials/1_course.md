@@ -31,7 +31,7 @@ https://github.com/EgorTarasov/ITAM.PythonCource
 2. `/README.md` - файлик с важными ссылками
 3. `/chapter-{id}/` - папка, с главой курса. Глава, это отдельное занятие.
    Структура главы:
-   1. `lecture.ipynb` - ноутбук с лекцией чтобы ничего не устанавливать, ее можно запускать в [колабе](http://colab.research.google.com/)
+   1. `lecture.ipynb` - ноутбук с лекцией чтобы ничего не устанавливать, ее можно запускать в [колабе](http://colab.research.google.com/) [гайд как это запускать](https://youtube.com/clip/UgkxZdsn7nZsm-MG_PbBJ6cYIq6qzJdusmBo)
    2. `homework.md` - условие домашнего задания
 
 #### 5. **Где что как?**
