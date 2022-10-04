@@ -39,4 +39,4 @@ https://github.com/EgorTarasov/ITAM.PythonCource
 - Очно лекции проходят в Г511
 - Онлайн трансляция идёт в канал в ТИМС(с записью)
 - Вся организационная информация находится в канале в тг [itam_python_course](https://t.me/itam_python_course)
-- По всем вопросам, пишите [Петеру](https://t.me/teadove) и [Артёму](https://t.me/sostema)
+- По всем вопросам, пишите [Егор](https://t.me/tarasov_egor) 
